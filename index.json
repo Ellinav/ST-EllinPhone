@@ -14,7 +14,7 @@
     "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/bgm/song2.mp3"
   },
   {
-  "type": "extensions",
+  "type": "extension",
   "id": "Ellin-assets",
   "name": "font",
   "description": "My test font.",
