@@ -5,12 +5,5 @@
     "name": "One Day More (Claude)",
     "description": "From the Ellin's Phone Music Pack.",
     "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/bgm/song1.mp3"
-  },
-  {
-    "type": "bgm",
-    "id": "song2.mp3",
-    "name": "Die Zugsequenz (Thomas)",
-    "description": "From the Ellin's Phone Music Pack.",
-    "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/bgm/song2.mp3"
   }
 ]
