@@ -16,10 +16,8 @@
   {
   "type": "extensions",
   "id": "font1.tff",
-  "name": "我的自定义字体",
-  "author": "你的名字",
-  "description": "一个通过插件渠道下载的字体文件。",
-  
-  "url": "MyCoolFont.ttf" 
+  "name": "font1",
+  "description": "My test font.",
+  "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/font/cmss10.tff" 
   }
 ]
