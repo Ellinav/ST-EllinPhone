@@ -15,8 +15,8 @@
   },
   {
   "type": "extensions",
-  "id": "font1.tff",
-  "name": "font1",
+  "id": "Ellin-assets",
+  "name": "font",
   "description": "My test font.",
   "url": "https://github.com/Ellinav/ST-EllinPhone" 
   }
