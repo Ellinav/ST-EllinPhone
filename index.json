@@ -1,10 +1,16 @@
 [
   {
-    "id": "ellinphone-music-pack-v1",
-    "type": "character",
-    "name": "Ellin's Phone (Music Pack)",
-    "description": "The official music and asset collection for the ST-EllinPhone extension. Contains multiple BGM tracks.",
-    "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/EllinPhoneMusicPack.zip",
-    "highlight": true
+    "type": "bgm",
+    "id": "song1.mp3",
+    "name": "One Day More (Claude)",
+    "description": "From the Ellin's Phone Music Pack.",
+    "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/bgm/song1.mp3"
+  },
+  {
+    "type": "bgm",
+    "id": "song2.mp3",
+    "name": "Die Zugsequenz (Thomas)",
+    "description": "From the Ellin's Phone Music Pack.",
+    "url": "https://github.com/Ellinav/ST-EllinPhone/raw/main/assets/bgm/song2.mp3"
   }
 ]
